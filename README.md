@@ -1,12 +1,12 @@
-# vscode-transparent-glow
-transparent vscode css
+# 魔改版-Custom CSS and JS
 
-> 原文链接 [https://jinkey.ai/post/tech/ru-he-pei-zhi-tou-ming-fa-guang-de-sao-qi-vscode](https://jinkey.ai/post/tech/ru-he-pei-zhi-tou-ming-fa-guang-de-sao-qi-vscode)
-转载请注明出处
+> - 暗黑+霓虹灯+80 年代幻想主题
+> - 发光字体（主要做了 js，html，css）
 
 
-# 1 安装自定义 JS 和 CSS 插件
-![插件截图](https://upload-images.jianshu.io/upload_images/854231-b2e5e95d9c7571a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 1 安装插件
+[插件地址](https://marketplace.visualstudio.com/items?itemName=xuedao.super-themes)
+！[插件截图](https://github.com/qq34347476/Beautiful/images/1.png)
 
 # 2 安装发光主题
 ![插件截图](https://upload-images.jianshu.io/upload_images/854231-01920da488773df2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
