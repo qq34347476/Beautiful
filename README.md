@@ -6,7 +6,7 @@
 # 1.安装插件
 
 [插件地址](https://marketplace.visualstudio.com/items?itemName=xuedao.super-themes)
-！[插件截图](https://github.com/qq34347476/Beautiful/blob/vscode%E7%BB%88%E6%9E%81%E7%BE%8E%E5%8C%96-Beautiful/images/1.png)
+![插件截图](https://github.com/qq34347476/Beautiful/blob/vscode%E7%BB%88%E6%9E%81%E7%BE%8E%E5%8C%96-Beautiful/images/1.png)
 
 # 2 添加样式配置文件
 
