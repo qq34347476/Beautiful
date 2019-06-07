@@ -3,19 +3,15 @@
 > - 暗黑+霓虹灯+80 年代幻想主题
 > - 发光字体（主要做了 js，html，css）
 
+# 1.安装插件
 
-# 1 安装插件
 [插件地址](https://marketplace.visualstudio.com/items?itemName=xuedao.super-themes)
 ！[插件截图](https://github.com/qq34347476/Beautiful/images/1.png)
 
-# 2 安装发光主题
-![插件截图](https://upload-images.jianshu.io/upload_images/854231-01920da488773df2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 2 添加样式配置文件
 
-
-# 3 添加样式配置文件
 在 VSCode 安装目录（自己随便选择一个文件夹也可以），放入以下文件。
 为了方便下载，文件整理到了 [Github-Jinkeycode](https://github.com/Jinkeycode)/[vscode-transparent-glow](https://github.com/Jinkeycode/vscode-transparent-glow)，欢迎 star。
-
 
 `enable-electron-vibrancy.js`
 开启 electron 透明支持
@@ -37,6 +33,7 @@
 ![](http://upload-images.jianshu.io/upload_images/854231-4e961151a1a22352?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 终端光标颜色修改，由[@manonloki](www.manonloki.com) 提供
+
 ```
 .panel.integrated-terminal .xterm-cursor,
 .xterm-cursor-block {
@@ -45,21 +42,22 @@
 ```
 
 # 4 修改 VSCode 配置文件
+
 ![](https://upload-images.jianshu.io/upload_images/854231-fbd4da9e499e6c4b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 点击上图 `在 setting.json 中编辑`，打开后加入配置(**不需要大括号**，直接把 key-value 加入原有 json 即可)：
 ![setting.json](http://upload-images.jianshu.io/upload_images/854231-50272ef5974e1d00?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 5 重加载
+
 按下 Ctrl + Shift + P，运行 "Reload Custom CSS and JS", 重启 vscode 即可。如果提示`VSCode 已经损坏`，选择右上角齿轮“不再提示”即可。
 
 # 6 总结
+
 成品效果如图，不懂的可以加小助手微信 udujjb 拉你进群询问
 ![](https://upload-images.jianshu.io/upload_images/854231-203ae82f1544bf0f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-以上教程是基于 MacOS 的，Linux 用户如何开启透明请参考；Windows 的electron暂不支持vibrancy模式，可以使用插件 [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit) 设置透明。
+以上教程是基于 MacOS 的，Linux 用户如何开启透明请参考；Windows 的 electron 暂不支持 vibrancy 模式，可以使用插件 [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit) 设置透明。
 
 [Custom CSS and JS Loader 配置](https://github.com/be5invis/vscode-custom-css#getting-started)
 
 [Linux 透明窗口](https://github.com/sergei-dyshel/vscode/blob/master/README.fork.md)
-
-
