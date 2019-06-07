@@ -1,0 +1,9 @@
+.panel.integrated-terminal,
+.panel.integrated-terminal *{
+  background: transparent !important;
+}
+
+.panel.integrated-terminal .xterm-cursor,
+.xterm-cursor-block {
+  background: rgb(210, 0, 252) !important;
+}
